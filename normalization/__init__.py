@@ -67,8 +67,6 @@ def normalize_street_types(text: str) -> str:
         (r'\bväg\b', 'vägen'),
         (r'\btorg\b', 'torget'),
         (r'\bplan\b', 'platsen'),
-        (r'\bvägen\b', 'vägen'),
-        (r'\bgatan\b', 'gatan'),
     ]
     
     for pattern, replacement in street_patterns:
