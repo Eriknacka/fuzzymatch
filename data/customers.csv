@@ -1,0 +1,31 @@
+customer_id,name,address,postal_code,city
+1,Anders Andersson,Drottninggatan 45,111 21,Stockholm
+2,Björn Bergström,Kungsgatan 23,411 19,Göteborg
+3,Cecilia Carlsson,Östra Hamngatan 12,411 10,Göteborg
+4,David Davidsson,Storgatan 78,211 42,Malmö
+5,Emma Eriksson,Västra Storgatan 5,553 21,Jönköping
+6,Fredrik Fredriksson,Södra Vägen 34,412 54,Göteborg
+7,Gunilla Gustafsson,Avenyn 15,411 36,Göteborg
+8,Henrik Henriksson,Drottninggatan 123,211 40,Malmö
+9,Ingrid Isaksson,Götgatan 45,116 21,Stockholm
+10,Johan Johansson,Sveavägen 78,113 59,Stockholm
+11,Karin Karlsson,Hamngatan 34,111 47,Stockholm
+12,Lars Larsson,Linnégatan 56,413 04,Göteborg
+13,Maria Nilsson,Storgatan 12,903 26,Umeå
+14,Nils Nilsson,Järnvägsgatan 23,582 26,Linköping
+15,Olof Olofsson,Kyrkogatan 8,651 13,Karlstad
+16,Petra Persson,Lilla Bommen 4,411 04,Göteborg
+17,Quintus Qvist,Stora Torget 1,252 20,Helsingborg
+18,Robert Robertsson,Stortorget 3,222 23,Lund
+19,Sara Svensson,Kristian IV:s väg 12,254 37,Helsingborg
+20,Tomas Thomasson,Vasagatan 22,111 20,Stockholm
+21,Ulrika Ulriksson,Norra Allégatan 5,413 01,Göteborg
+22,Viktor Viktorsson,Östervägen 45,903 42,Umeå
+23,Wilhelm Wilhelmsson,Kungsgatan 78,753 18,Uppsala
+24,Ylva Yngvesson,Storgatan 34,972 32,Luleå
+25,Åsa Åström,Järntorget 2,413 01,Göteborg
+26,Ärla Ärlander,Södergatan 12,211 34,Malmö
+27,Östen Öberg,Hantverkargatan 23,112 21,Stockholm
+28,Anna-Karin Andersson,Vasavägen 8,582 73,Linköping
+29,Bo-Göran Bengtsson,Storgatan 56,451 30,Uddevalla
+30,Carl-Johan Carlsson,Östra Ågatan 34,753 22,Uppsala
