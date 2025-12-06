@@ -1,0 +1,12 @@
+# Core fuzzy matching library
+rapidfuzz>=3.0.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Additional utilities
+numpy>=1.24.0
